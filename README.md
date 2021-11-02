@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning java, php,  java script , ccna , React, and  Dbms
 - 💞️ I’m looking to collaborate on ...
 - 📫 Contact me Rgritik@gmail.com
+- phone no  +919868382824
 
 
 <!---
