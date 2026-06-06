@@ -4,11 +4,14 @@ Frontend Engineer | Full-Stack Developer
 
 ## About Me
 
-- Pursuing B.Tech in Computer Science
-- Frontend-focused developer with experience in React.js and React Native
-- Built and maintained Pryass4Jobs web and mobile applications as a solo developer
-- Experience with Node.js, Express.js, Redis, PHP, Laravel, and OpenCart
-- Passionate about building scalable and user-friendly applications
+- 🎓 Pursuing B.Tech in Computer Science
+- 💼 5+ years of experience in software development across product-based and service-based projects
+- 🚀 Specialized in MERN Stack (MongoDB, Express.js, React.js, Node.js)
+- 📱 Built and maintained Pryass4Jobs web and mobile applications as a solo developer
+- ⚛️ Frontend-focused engineer with expertise in React.js and React Native
+- ☁️ Experienced with Redis, Amazon S3, VPS deployment, and REST APIs
+- 🔧 Worked with PHP, Laravel, OpenCart, and custom eCommerce solutions
+- 🌱 Continuously learning and building scalable, user-centric applications
 
 ## Tech Stack
 
